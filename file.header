@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <title>CMSB 2026, July, Lisboa</title>
+  <link rel="icon" href="content/favicon.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+  <link rel="stylesheet" type="text/css" href="stylesheet.css" />
+</head>
+
+<body>
+<div id="container">
+<div class="site-header">
+  <div class="top-left">CMSB 2026 - July, Lisboa, Portugal</div>
+  <img class="img-top" src="lisboa.jpg" alt="Lisboa" 
+  title="Praça do Comércio, Lisboa - Photo taken by Pedro Monteiro sailing on the Tagus river">
+</div>

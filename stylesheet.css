@@ -1,0 +1,140 @@
+@media screen and (max-width: 700px) {
+  html {font-size:100%;}
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+a:link, a:visited {
+  text-decoration:none;
+  color: MidnightBlue;
+}
+
+a:hover {
+   text-decoration:underline;
+   color: MidnightBlue;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 1em 0;
+  background-color: #ddd;
+}
+
+p {
+  padding:3px;
+}
+
+p.centered {
+  text-align: center;
+}
+
+hr.lgray {
+  color: gray;
+  height: 1px;
+  background-color: #AAAAAA;
+}
+
+a.active {
+  color: black;
+  background-color:#80CEB9;
+}
+
+.section {
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: 2em;
+  padding:3px;
+  font-size: 150%;
+}
+
+/***************** Banner overlay text ********************/
+
+#container {
+  text-align: left;
+  padding:1.0em;
+  margin: 0 auto;
+  font-size:100%;
+  max-width: 90%;
+  position: relative;
+  background-color: #f4f4f4;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.img-top {
+  width: 100%;
+  min-height: 100px;
+}
+
+.site-header {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  width: 100%;
+  min-height: 100px;
+}
+
+.top-left {
+  position: absolute;
+  font-family: Impact, sans-serif;
+  font-size: calc(22px + 1vw);
+  top: 1em;
+  left: 1em;
+  color: #444444;
+}
+
+/************************ Top nav **************************/
+
+.topnav {
+  overflow: hidden;
+  background-color: #dfeef3;
+}
+
+.topnav a {
+  font-weight: bold;
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 4px 16px;
+  text-decoration: none;
+  font-size: 100%;
+}
+
+.topnav a:hover {
+  color: darkgray;
+}
+
+.topnav .icon {
+  display: none;
+}
+@media screen and (max-width: 700px) {
+  .topnav a {display: none;}
+  .topnav a.icon {
+    font-size:133%;
+    float: right;
+    display: block;
+  }
+}
+@media screen and (max-width: 700px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    font-size:133%;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    line-height:200%;
+    text-align: left;
+  }
+}
+
