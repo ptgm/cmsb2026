@@ -1,4 +1,4 @@
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1100px) {
   html {font-size:100%;}
 }
 
@@ -114,18 +114,18 @@ a.active {
 .topnav .icon {
   display: none;
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1100px) {
   .topnav a {display: none;}
   .topnav a.icon {
-    font-size:133%;
+    font-size:120%;
     float: right;
     display: block;
   }
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1100px) {
   .topnav.responsive {position: relative;}
   .topnav.responsive .icon {
-    font-size:133%;
+    font-size:120%;
     position: absolute;
     right: 0;
     top: 0;
