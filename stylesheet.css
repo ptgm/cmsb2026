@@ -53,6 +53,13 @@ a.active {
   font-size: 150%;
 }
 
+.address {
+  background-color: #e8f8f5;
+  border: 1px solid #ccc;     /* thin grey border */
+  border-radius: 4px;         /* slightly rounded corners */
+  padding: 0 5px;              /* space inside the box */
+}
+
 /***************** Banner overlay text ********************/
 
 #container {
