@@ -49,8 +49,8 @@ a.active {
 .section {
   font-family: "Arial Black", Gadget, sans-serif;
   font-size: 2em;
-  padding:3px;
-  font-size: 150%;
+  padding:1px;
+  font-size: 140%;
 }
 
 .address {
