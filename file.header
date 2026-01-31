@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-  <title>CMSB 2026, July 24-25, Lisboa</title>
+  <title>CMSB 2026, July 24-25, Lisbon, PT</title>
   <link rel="icon" href="favicon.png">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
@@ -13,7 +13,7 @@
 <body>
 <div id="container">
 <div class="site-header">
-	<div class="top-left">CMSB 2026 - July 24-25, Lisboa, Portugal<br>
+	<div class="top-left">CMSB 2026 - July 24-25, Lisbon, Portugal<br>
 	24th International Conference on Computational Methods in Systems Biology</div>
   <img class="img-top" src="lisboa.jpg" alt="Lisboa" 
   title="Praça do Comércio and São Jorge Castle, Lisboa - Photo taken by Pedro Monteiro sailing on the Tagus river">
