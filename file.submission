@@ -3,7 +3,7 @@
   <a href="keynotes.html" id="keynotes" class="">Keynotes</a>
   <a href="committees.html" id="committees" class="">Committees</a>
   <a href="dates.html" id="dates" class="">Dates</a>
-  <a href="submission.html" id="submission" class="active">Submission Information</a>
+  <a href="submission.html" id="submission" class="active">Call for Contributions</a>
   <a href="venue.html" id="venue" class="">Venue</a>
   <a href="javascript:void(0);" class="icon" onclick="menu()"> <i class="fa fa-bars fa-6"></i> </a>
 </div>
@@ -11,7 +11,51 @@
 
 <hr style="lgray">
 <div class="section">Submission Information</div>
+
 <p>
-  TO BE ANNOUNCED
+All regular and tool papers have to be written in English and must be submitted in the form of a PDF file using the HotCRP (FLoC common) submission system, at the following link:
+</p>
+
+<p align="center">
+<a href="https://submissions.floc26.org/cmsb/">https://submissions.floc26.org/cmsb/</a>
+</p>
+
+<p>
+Contributions should be submitted to one of the following categories:
+</p>
+
+<p>
+A) REGULAR PAPERS: Regular papers should describe original work that has not been previously published and is not under review for publication elsewhere. Accepted regular papers will be published as part of the conference proceedings in the Springer LNCS series. Papers in this category should not exceed 15 pages in the Springer LNCS style (including main figures and tables, excluding references and possible appendices).
+</p>
+
+<p>
+B) TOOL PAPERS: Tool papers should present new tools or public websites, new tool components or novel extensions to existing tools or websites supporting biological system modelling, analysis, simulation, or similar. Submissions must include information on methods, tool availability, and selected application results. They should be original and not previously published in a similar form. Accepted tool papers will be published as part of the conference proceedings in the Springer LNCS series. Papers in this category should have 4-6 pages in the Springer LNCS style (including main figures and tables, excluding references and possible appendices).
+</p>
+
+<p>
+Each submission will be reviewed by at least three members of the Program Committee.
+All accepted contributions must be presented at the conference by one of the authors.
+</p>
+
+<p>
+Instructions for the Springer Nature LNCS style: <a href="http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines">http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines</a>.
+Templates are available both for Latex and Word.
+<br>
+
+Springer Nature encourages authors to include their <a href="https://www.springernature.com/gp/researchers/orcid">ORCIDs</a> in their papers.
+In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form.
+The corresponding author signing the copyright form should match the corresponding author marked on the paper.
+Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
+<br>
+
+If an author is interested in Open Access or Open Choice, please refer to <a href="https://www.springer.com/gp/computer-science/lncs/open-access-publishing-in-computer-proceedings">Springer Nature's webpage</a> for prices and additional information.
+</p>
+
+<p>
+Two prizes will be delivered for the best regular or tool papers:
+<ul>
+<li>the best paper award</li>
+<li>the best student paper award</li>
+</ul>
 </p>
 
