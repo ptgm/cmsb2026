@@ -90,10 +90,12 @@ a.active {
 .top-left {
   position: absolute;
   font-family: Impact, sans-serif;
-  font-size: calc(22px + 1vw);
+  font-size: calc(16px + 1vw);
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 5px;
   top: 1em;
   left: 1em;
-  color: #444444;
+  color: #eeeeee;
 }
 
 /************************ Top nav **************************/

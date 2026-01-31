@@ -1,0 +1,22 @@
+<div class="topnav responsive" id="myTopnav">
+  <a href="index.html" id="home" class="">Home</a>
+  <a href="keynotes.html" id="keynotes" class="">Keynotes</a>
+  <a href="committees.html" id="committees" class="">Committees</a>
+  <a href="dates.html" id="dates" class="">Dates</a>
+  <a href="submission.html" id="submission" class="">Call for Contributions</a>
+  <a href="registration.html" id="registration" class="active">Registration</a>
+  <a href="venue.html" id="venue" class="">Venue</a>
+  <a href="javascript:void(0);" class="icon" onclick="menu()"> <i class="fa fa-bars fa-6"></i> </a>
+</div>
+
+
+<hr style="lgray">
+<div class="section">Registration</div>
+
+<p>
+Registration will be centrally managed by FLoC:<br>
+<a href="https://www.floc26.org/registration">https://www.floc26.org/registration</a>
+<br>
+
+</p>
+
