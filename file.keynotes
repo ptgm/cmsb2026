@@ -21,18 +21,26 @@
     <img src="https://cbi-toulouse.fr/wp-content/uploads/membres/NIARAKIS97825.webp" alt="Anna Niarakis" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
 
     <div>
-        <h3 style="margin: 0; font-size: 1.2em;">Dr. Anna Niarakis</h3>
+        <h3 style="margin: 0; font-size: 1.2em;">Prof. Anna Niarakis</h3>
         <p style="margin: 5px 0 0; color: #555;">
             Professor of Computational Systems Biology<br>
             University of Toulouse III - Paul Sabatier<br>
            <a href="https://cbi-toulouse.fr/en/membre/niarakis-anna-2/">https://cbi-toulouse.fr/en/membre/niarakis-anna-2/</a>
         </p>
     </div>
-
 </div>
 
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 30px;">
+    <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=pT-rwEIAAAAJ&citpid=3" alt="Miguel Rocha" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
 
-<p>
-(... being updated ...)
-</p>
+    <div>
+        <h3 style="margin: 0; font-size: 1.2em;">Prof. Miguel Rocha</h3>
+        <p style="margin: 5px 0 0; color: #555;">
+            Professor of Bioinformatics<br>
+            University of Minho<br>
+           <a href="https://www.ceb.uminho.pt/People/Details/19c61a9c-8d3f-4880-bbf6-8e31dc3f3fc1">https://www.ceb.uminho.pt/People/Details/19c61a9c-8d3f-4880-bbf6-8e31dc3f3fc1</a>
+        </p>
+    </div>
+</div>
+
 
