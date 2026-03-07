@@ -2,7 +2,6 @@
   <a href="index.html" id="home" class="active">Home</a>
   <a href="keynotes.html" id="keynotes" class="">Keynotes</a>
   <a href="committees.html" id="committees" class="">Committees</a>
-  <a href="dates.html" id="dates" class="">Dates</a>
   <a href="submission.html" id="submission" class="">Call for Contributions</a>
   <a href="registration.html" id="registration" class="">Registration</a>
   <a href="venue.html" id="venue" class="">Venue</a>
@@ -30,18 +29,33 @@ The CMSB 2026 proceedings will be published in the series <a href="http://www.sp
 This does not forbid the authors to upload a preprint version of their article on a repository such as ArXiv before sending the final version for the proceedings of the conference with the requested copyright form.
 </p>
 
+<hr style="lgray">
+<div class="section">Key dates</div>
+<ul>
+ <li><b>Abstract presubmission:</b> March 27, 2026</li>
+ <li><b>Paper submission:</b> April 3, 2026</li>
+ <li><b>PC reviews uploads/PC discussion start:</b> Apr 22, 2026</li>
+ <li><b>Notification:</b> May 2, 2026</li>
+ <li><b>Camera ready:</b> May 13, 2026</li>
+ <li><b>Posters submission:</b> June 26, 2026
+ <li><b>Conference:</b> July 24-25, 2026</li>
+</ul>
+
 
 <hr style="lgray">
 <div class="section">News</div>
-- Miguel Rocha confirmed as keynote speaker!<br>
-- Paper submission <a href="dates.html">dates</a> out!<br>
-- Anna Niarakis confirmed as keynote speaker!<br>
-- CMSB officially associated with <a href="https://www.floc26.org/program">
+<ul>
+ <li><b>Submission system open!</b></li>
+ <li>Miguel Rocha confirmed as keynote speaker</li>
+ <li> Paper submission dates out</li>
+ <li> Anna Niarakis confirmed as keynote speaker</li>
+ <li> CMSB officially associated with <a href="https://www.floc26.org/program">
   <img src="logo-floc.svg" alt="FLoC logo" width="80px" style="vertical-align: middle;"/>
-  (Federated Logic Conference)</a> taking place in July in Lisbon, Portugal</a><br>
-- CMSB 2026 webpage online
+  (Federated Logic Conference)</a> taking place in July in Lisbon, Portugal</a></li>
+ <li> CMSB 2026 webpage online</li>
+</ul>
 
-<br>
+
 
 <hr style="lgray">
 <div class="section">Host institutions and Sponsors</div>

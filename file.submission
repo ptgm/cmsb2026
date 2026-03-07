@@ -2,7 +2,6 @@
   <a href="index.html" id="home" class="">Home</a>
   <a href="keynotes.html" id="keynotes" class="">Keynotes</a>
   <a href="committees.html" id="committees" class="">Committees</a>
-  <a href="dates.html" id="dates" class="">Dates</a>
   <a href="submission.html" id="submission" class="active">Call for Contributions</a>
   <a href="registration.html" id="registration" class="">Registration</a>
   <a href="venue.html" id="venue" class="">Venue</a>

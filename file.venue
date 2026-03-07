@@ -2,7 +2,6 @@
   <a href="index.html" id="home" class="">Home</a>
   <a href="keynotes.html" id="keynotes" class="">Keynotes</a>
   <a href="committees.html" id="committees" class="">Committees</a>
-  <a href="dates.html" id="dates" class="">Dates</a>
   <a href="submission.html" id="submission" class="">Call for Contributions</a>
   <a href="registration.html" id="registration" class="">Registration</a>
   <a href="venue.html" id="venue" class="active">Venue</a>
@@ -13,7 +12,7 @@
 <div class="section">Venue</div>
 
 <p>
-All <a href="https://www.floc26.org/venue">FLoC</a> associated conferences and workshops have the same venue:<br>
+CMSB, as all associated <a href="https://www.floc26.org/venue">FLoC</a> conferences and workshops, will be held at:<br>
 <span class="address">Edifício II - ISCTE, Avenida das Forças Armadas, 1649-026 Lisboa, Portugal</span>
 </p>
 
@@ -21,16 +20,25 @@ All <a href="https://www.floc26.org/venue">FLoC</a> associated conferences and w
 
 <hr/>
 <div class="section">Public transportation</div>
+
 <ul>
-<li>Metro Yellow line - stops "Entre Campos" or "Cidade Universitária"</li>
+<li>Metro Yellow line - stops "<b>Entre Campos</b>" or "Cidade Universitária"</li>
 <li>Carris buses <a href="https://www.carris.pt/viaje/carreiras/701/">701</a>,
 <a href="https://www.carris.pt/viaje/carreiras/732/">732</a>,
 <a href="https://www.carris.pt/viaje/carreiras/754/">754</a> - stop "Av. Forças Armadas / R. Sanches Coelho"</li>
 </ul>
 
+Metro is one of the most reliable ways to get around Lisbon, running daily from <b>6:30 AM to 1:00 AM</b>.<br>
+You can tap in directly at the gates using a contactless debit or credit card, without the need to buy a separate ticket.<br>
+<br>
+Taxis/Bolt/Uber are also widely available.
+<br>
+&nbsp;
+
 <hr/>
 <div class="section">Additional FLoC information</div>
-
+<br>
+Please also check <a href="https://www.floc26.org/">FLoC website</a> for more information about the venue, local transportation, and accommodation options in Lisbon.
 <ul>
 <li>Venue: 
 <a href="https://www.floc26.org/venue">https://www.floc26.org/venue</a></li>
