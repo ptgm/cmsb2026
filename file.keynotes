@@ -54,5 +54,8 @@ This approach supports modular model reuse, accommodates multiscale feedback bet
     </div>
 </div>
 
-<b>Title to be announced</b><br>
+<b>An ecosystem of tools and applications of constraint-based modeling: from model reconstruction, prediction and optimization to AI integration</b><br>
+
+In this lecture, I will perform a walk through a number of distinct computational tools for constraint-based modeling (CBM) developed in our group, that encompass genome annotation, model reconstruction and validation, phenotype prediction, strain optimization, and integration of omics data with models, including merlin, OptFlux, MewPy, Troppo, COBAMP, and others. I will also address the recent integration of Artificial Intelligence-based tools, based on Large Language Models (LLMs), for the improved explainability of CBM models and their simulations, integrating with LLMs and semantically enabled knowledge-graphs.  I will go through different applications of those methods and tools, ranging from metabolic engineering to human health (cancer, neurodegenerative and infectious diseases), and plant sciences, using metabolic models of organisms as diverse as bacteria, fungi, algae, woody plants, fish and humans, many developed with our collaboration.
+
 
