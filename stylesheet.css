@@ -60,6 +60,13 @@ a.active {
   padding: 0 5px;              /* space inside the box */
 }
 
+span.author { /* gray italic non bold */
+  color: gray;
+  font-style: italic;
+  font-weight: normal;
+}
+
+
 /***************** Banner overlay text ********************/
 
 #container {

@@ -3,6 +3,7 @@
   <a href="keynotes.html" id="keynotes" class="">Keynotes</a>
   <a href="committees.html" id="committees" class="">Committees</a>
   <a href="submission.html" id="submission" class="">Call for Contributions</a>
+  <a href="accepted.html" id="accepted" class="">Accepted</a>
   <a href="registration.html" id="registration" class="">Registration</a>
   <a href="venue.html" id="venue" class="">Venue</a>
   <a href="javascript:void(0);" class="icon" onclick="menu()"> <i class="fa fa-bars fa-6"></i> </a>
@@ -32,11 +33,11 @@ This does not forbid the authors to upload a preprint version of their article o
 <hr style="lgray">
 <div class="section">Key dates</div>
 <ul>
- <li>Abstract presubmission: <b>April 03, 2026</b> <font color="#FF2222">(EXTENDED!)</font></li>
- <li>Paper submission: <b>April 10, 2026</b> <font color="#FF2222">(EXTENDED!)</font></li>
- <li>PC reviews uploads/PC discussion start: April 24, 2026</li>
- <li>Notification: May 2, 2026</li>
- <li>Camera ready: May 13, 2026</li>
+ <li>Abstract presubmission: <s><b>April 03, 2026</b> <font color="#FF2222">(EXTENDED!)</font></s></li>
+ <li>Paper submission: <s><b>April 10, 2026</b> <font color="#FF2222">(EXTENDED!)</font></s></li>
+ <li>PC reviews uploads/PC discussion start: <s>April 24, 2026</s></li>
+ <li>Notification: <s>May 2, 2026</s></li>
+ <li>Camera ready: <s>May 13, 2026</s></li>
  <li>Posters submission: May 16 to June 26, 2026
  <li>Conference: July 24-25, 2026</li>
 </ul>
@@ -45,6 +46,7 @@ This does not forbid the authors to upload a preprint version of their article o
 <hr style="lgray">
 <div class="section">News</div>
 <ul>
+ <li>List of <a href="accepted.html">accepted papers</a> is online</li>
  <li><a href="registration.html">Registration</a> system open</li>
  <li><b><a href="submission.html">Submission</a> system open!</b></li>
  <li>Miguel Rocha confirmed as keynote speaker</li>

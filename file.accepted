@@ -1,0 +1,97 @@
+<div class="topnav responsive" id="myTopnav">
+  <a href="index.html" id="home" class="">Home</a>
+  <a href="keynotes.html" id="keynotes" class="">Keynotes</a>
+  <a href="committees.html" id="committees" class="">Committees</a>
+  <a href="submission.html" id="submission" class="">Call for Contributions</a>
+  <a href="accepted.html" id="accepted" class="active">Accepted</a>
+  <a href="registration.html" id="registration" class="">Registration</a>
+  <a href="venue.html" id="venue" class="">Venue</a>
+  <a href="javascript:void(0);" class="icon" onclick="menu()"> <i class="fa fa-bars fa-6"></i> </a>
+</div>
+
+
+<hr style="lgray">
+<div class="section">Accepted contributions</div>
+
+
+<p><!-- ------------------------------------------ -->
+<b>Boolean and Qualitative Networks</b><br>
+
+<ul>
+<li>Source-Target Control of Boolean Networks with Minimal Edge Perturbations<br>
+<span class="author">Gustavo Magaña-López, Andrzej Mizera, and Jun Pang</span></li>
+
+<li>Modulation-Reaction Networks<br>
+<span class="author">Leo Lobski and Yoàv Montacute</span></li>
+
+<li>Inference of qualitative models from steady-state data via weighted MaxSMT<br>
+<span class="author">Ondřej Huvar, Nikola Beneš, Martin Jonáš, David Šafránek, and Samuel Pastva</span></li>
+
+<li>pyModRev: a Python Tool for Model Revision of Boolean Networks <font color="gray">#tool-paper</font><br>
+<span class="author">Pedro T. Monteiro and Filipe Gouveia</span></li>
+</ul>
+</p>
+
+
+
+<p><!-- ------------------------------------------ -->
+<b>Rule-Based and Stochastic Models</b><br>
+
+<ul>
+<li>Statistical model checking for rule-based models in the Kappa language<br>
+<span class="author">Albin Salazar, Jérôme Feret, and Tatjana Petrov</span></li>
+
+<li>Efficient Stochastic Trace Generation for Transcription<br>
+<span class="author">Arman Ferdowsi, Matthias Függer, and Thomas Nowak</span></li>
+
+<li>Mamdani-Driven Fuzzy Reaction Systems<br>
+<span class="author">Linda Brodo, Moreno Falaschi, Fiamma Romagnoli, and Elisa B.P. Tiezzi</span></li>
+
+<li>Incremental Kasa: Static Analysis of Kappa Models at Edit Time <font color="gray">#tool-paper</font><br>
+<span class="author">Rebecca Ghidini and Jérôme Feret</span></li>
+</ul>
+</p>
+
+
+<p><!-- ------------------------------------------ -->
+<b>Constraint-Based Modeling and Molecular Computation</b><br>
+
+<ul>
+<li>Inferring Minimal Culture Media using Biologically Constrained Combinatorial Optimization<br>
+<span class="author">Moana Aulagner, Samuel Blanquart, and Anne Siegel</span></li>
+
+<li>On the Design of an Analog-Dyadic Converter CRN<br>
+<span class="author">Mathieu Hemery</span></li>
+
+<li>Analog computation with transcriptional networks<br>
+<span class="author">David Doty, Mina Latifi, and David Soloveichik</span></li>
+
+<li>Metabolic Transformation Algorithm: A Systems Biology Approach to Aging and Alzheimer’s Disease<br>
+<span class="author">Bruno Sá, Catarina Gomes, and Miguel Rocha</span></li>
+</ul>
+</p>
+
+
+<p><!-- ------------------------------------------ -->
+<b>Causal Inference and Multi-Omics Integration</b><br>
+
+<ul>
+<li>Metabolic Flux Inference in a Cheese Microbial Community via comFI: a Biology-informed Approach for Time-resolved Multi-omics Integration<br>
+<span class="author">Sthyve Tatho, Valentina Baldazzi, and Simon Labarthe</span></li>
+
+<li>GRNgen: a Generator of Gene Regulatory Networks Fitting Graph and Motif Properties</li>
+<span class="author">Alexandre Tan-Lhernould, Thierry Dorval, and François Fages</span></li>
+
+<li>Consensus Enhances Individual Causal Models: a Use Case on Lung Cancer Driven by Cellular Pathways</li>
+<span class="author">Arnaud Lang, Rodrigo Henrique Ramos, Safaa Al-Ali, Mohammadreza Mousavi, Anna Calissano, and Irene Balelli</span></li>
+
+<li>Graph Learning Models for Temporal Gene Expression Prediction and the Role of Interactions Topology<br>
+<span class="author">Alessandro Dipalma, Alessio Micheli, Paolo Milazzo, Francesco Simonetti, and Domenico Tortorella</span></li>
+
+<li>Multi-view clustering of transcriptomics and methylomics data elucidates glioma molecular stratification<br>
+<span class="author">Carolina Pé-Curto, Roberta Coletti, and Marta B. Lopes</span></li>
+</ul>
+</p>
+
+
+
