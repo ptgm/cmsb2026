@@ -1,5 +1,5 @@
 # cmsb2026
-CMSB website
+github project to generate the CMSB 2026 website: https://arsr.inesc-id.pt/cmsb2026/
 
 Content is inside: file.* 
 
