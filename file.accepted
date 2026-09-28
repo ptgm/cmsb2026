@@ -23,7 +23,7 @@ i.e. a maximum of 25min talk plus 5min for questions. See <a href="programme.htm
 <b>Boolean and Qualitative Networks</b><br>
 
 <ul>
-<li>Source-Target Control of Boolean Networks with Minimal Edge Perturbations<br>
+<li>Source-Target Control of Boolean Networks with Minimal Edge Perturbations <font color="red" style="padding:20px;">(Best paper award!)</font><br>
 <span class="author">Gustavo Magaña-López, Andrzej Mizera, and Jun Pang</span></li>
 
 <li>Modulation-Reaction Networks<br>
@@ -81,7 +81,7 @@ i.e. a maximum of 25min talk plus 5min for questions. See <a href="programme.htm
 <b>Causal Inference and Multi-Omics Integration</b><br>
 
 <ul>
-<li>Metabolic Flux Inference in a Cheese Microbial Community via comFI: a Biology-informed Approach for Time-resolved Multi-omics Integration<br>
+<li>Metabolic Flux Inference in a Cheese Microbial Community via comFI: a Biology-informed Approach for Time-resolved Multi-omics Integration <font color="red" style="padding:20px;">(Best student paper award!)</font><br>
 <span class="author">Sthyve Tatho, Valentina Baldazzi, and Simon Labarthe</span></li>
 
 <li>GRNgen: a Generator of Gene Regulatory Networks Fitting Graph and Motif Properties</li>
